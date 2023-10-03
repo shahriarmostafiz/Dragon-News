@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Giants Unveil New Gadgets",
+    "category": "Technology",
+    "details": "Apple, Google, and Microsoft introduced a range of innovative gadgets, including smartphones, smart speakers, and laptops.",
+    "published_date": "2023-10-01",
+    "image": "../src/assets/1.png"
+  },
+  {
+    "id": 2,
+    "title": "Climate Change Summit Concludes",
+    "category": "Environment",
+    "details": "World leaders wrapped up a week-long climate change summit with ambitious commitments to reduce greenhouse gas emissions.",
+    "published_date": "2023-09-28",
+    "image": "../src/assets/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Stock Market Soars to Record High",
+    "category": "Finance",
+    "details": "The stock market saw unprecedented gains, reaching an all-time high as investor confidence surged.",
+    "published_date": "2023-09-30",
+    "image": "../src/assets/3.png"
+  },
+  {
+    "id": 4,
+    "title": "New Discoveries in Space Exploration",
+    "category": "Science",
+    "details": "Scientists announced groundbreaking discoveries, including evidence of liquid water on Mars and the discovery of a new exoplanet.",
+    "published_date": "2023-09-29",
+    "image": "../src/assets/1.png"
+  },
+  {
+    "id": 5,
+    "title": "Sports Champions Crowned",
+    "category": "Sports",
+    "details": "In an intense week of competition, champions were crowned in various sports, from tennis to soccer.",
+    "published_date": "2023-09-27",
+    "image": "../src/assets/3.png"
+  },
+  {
+    "id": 6,
+    "title": "Entertainment Industry Celebrates New Releases",
+    "category": "Entertainment",
+    "details": "Hollywood celebrated the release of several highly anticipated movies and albums, drawing large audiences and rave reviews.",
+    "published_date": "2023-09-26",
+    "image": "../src/assets/2.png"
+  }
+]
